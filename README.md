@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](<![ScreenShot](https://raw.githubusercontent.com/Ankitaahuja/startbootstrap-resume/master/ScreenShot.png/dev.png)>)](https://ankitaahuja.com/)
+[![Resume Preview](<![ScreenShot](https://raw.githubusercontent.com/Ankitaahuja/startbootstrap-resume/master/ScreenShot.png/dev.png)](https://ankitaahuja.com/)
 
 **[View Live Preview](https://www.ankitaahuja.com/)**
 
